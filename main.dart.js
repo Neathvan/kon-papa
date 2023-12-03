@@ -62460,11 +62460,7 @@ h(a){return"LocaleDataException: "+this.a},
 $icv:1}
 A.Gw.prototype={
 N(a){var s=t.EN
-<<<<<<< HEAD
-return new A.rF(B.FU,"KON-PAPA",B.Mv,A.aq(new A.aj(B.n1,new A.a00(),s),!0,s.k("b0.E")),null)}}
-=======
 return new A.rF(B.FU,"Flutter Demo",B.Mv,A.aq(new A.aj(B.n1,new A.a00(),s),!0,s.k("b0.E")),null)}}
->>>>>>> 04b77c5c9395a9c6369400ea704c734c1d9df94e
 A.a00.prototype={
 $1(a){return new A.dl(a.b,null)},
 $S:381}
